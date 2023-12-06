@@ -1,5 +1,4 @@
-# EE541_Final_Project_27
- 
+
 # README for GitHub Repository
 
 ## Overview
@@ -48,3 +47,12 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas matplotlib sklearn numpy surprise
+```
+
+## Running the Notebooks
+1. Clone this repository to your local machine.
+2. Open the Jupyter Notebook (`.ipynb`) files in Jupyter Lab or Jupyter Notebook.
+3. Run the cells in sequence to execute the code.
+
+## Special Technical Requirements
+Ensure that you have a Python environment capable of running Jupyter notebooks. Additionally, due to the computational nature of these notebooks, a machine with adequate memory and processing power is recommended.
