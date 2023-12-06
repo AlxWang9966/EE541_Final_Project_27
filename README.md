@@ -1,6 +1,3 @@
-
-# README for GitHub Repository
-
 ## Overview
 This repository contains two Jupyter notebooks: `content_filtering.ipynb` and `Movie_Recommendation_System.ipynb`, which focus on content filtering and movie recommendation systems, respectively.
 
