@@ -4,7 +4,7 @@
 ## Overview
 This repository contains two Jupyter notebooks: `content_filtering.ipynb` and `Movie_Recommendation_System.ipynb`, which focus on content filtering and movie recommendation systems, respectively.
 
-### Content Filtering Notebook (`content_filtering.ipynb`)
+### Content Filtering Notebook (`Content_Based_Filtering.ipynb`)
 - **Code Cells:** 11
 - **Markdown Cells:** 3
 - **Headings:**
@@ -18,7 +18,7 @@ This repository contains two Jupyter notebooks: `content_filtering.ipynb` and `M
   - `sklearn.metrics.pairwise`
   - `ast`
 
-### Movie Recommendation System Notebook (`Movie_Recommendation_System.ipynb`)
+### Movie Recommendation System Notebook (`Collabrotive_Filtering.ipynb`)
 - **Code Cells:** 15
 - **Markdown Cells:** 6
 - **Headings:**
